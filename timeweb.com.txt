@@ -1,0 +1,36 @@
+https://timeweb.com/ru/services/hosting/
+
+Для регистрации аккаунта нажмите на "Разместить сайт" по тарифом. 
+Вам на почту придет письмо с логином и паролем. 
+Для регистрации домена воспользуйтесь инструкцией:
+http://timeweb.com/ru/help/pages/viewpage.action?pageId=4981493
+
+
+
+Плаван Наталья Александровна
+natasha.plavan23@gmail.com
+
+
+englishismylife.com
+
+
+Доступ по FTP
+IP: 	92.53.96.206
+Хост: 	vh140.timeweb.ru
+Логин: 	cg86273
+пароль: cOVLgPy6sqti
+
+
+****************
+
+
+
+Сайт
+englishismylife.com
+
+База данных
+cg86273_0
+
+
+Логин: admin
+Пароль: yb9HcEr8
